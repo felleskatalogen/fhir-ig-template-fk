@@ -1,0 +1,20 @@
+:root {
+    --navbar-bg-color: #002171;
+    --footer-container-bg-color: #002171;
+    --btn-hover-color: #002c98;
+    --btn-active-color: #002c98;
+}
+
+#fk-nav {
+    line-height: 50px;
+    float: left;
+    margin-top: 4px;
+}
+
+table {
+    border: solid 1px #000;
+}
+
+table tr td {
+    border: solid 1px #000;
+}

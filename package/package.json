@@ -1,0 +1,13 @@
+{
+    "name": "felleskatalogen.fhir.ig.template",
+    "version": "0.1.0",
+    "type": "fhir.template",
+    "license": "CC0-1.0",
+    "author": "Felleskatalogen AS",
+    "description": "Base template for FHIR Implementation Guides created by Felleskatalogen",
+    "canonical": "https://felleskatalogen.no/fhir/ig-template-fk",
+    "base": "fhir.base.template",
+    "dependencies": {
+        "fhir.base.template": "current"
+    }
+}

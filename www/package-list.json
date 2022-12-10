@@ -1,0 +1,19 @@
+{
+    "package-id": "felleskatalogen.fhir.ig.template",
+    "title": "Felleskatalogen FHIR IG Template",
+    "introduction": "Base template for FHIR Implementation Guides created by Felleskatalogen",
+    "canonical": "https://felleskatalogen.no/fhir/ig-template-fk",
+    "list": [
+      {
+        "version": "current",
+        "date": "2022-12-09",
+        "desc": "Current version",
+        "path": "https://github.com/HL7Norway/ig-template",
+        "status": "ci-build",
+        "sequence": "STU",
+        "fhirversion": "5.0.0-ballot",
+        "current": true
+      }
+    ],
+    "category": "Felleskatalogen"
+}
