@@ -19,3 +19,7 @@ table {
 table tr td {
     border: solid 1px #000;
 }
+
+table tr th {
+    border: solid 1px #000;
+}
